@@ -1,10 +1,9 @@
 header {
     background-color: #707575;
     width: 100%;
-    length: 20%;
-    -webkit-text-fill-color: darkgray;
-    text-align: center;
-    
-
-
+    height: 100px;
+    float: left;
+    text-transform: uppercase;
+    font-size: 30pt;
+    margin-bottom: 100px;
   }
